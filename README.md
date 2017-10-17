@@ -84,4 +84,4 @@ span {
 /* 给盒子设置阴影效果 */
 ```
 ### 顺带附上页面的显示效果图吧
-！[效果图](http://a2.qpic.cn/psb?/V118JuTr3rHMrA/8TOJoqrQHPayQEzb..bRMvmOJ891LmNywYZMRhVBPpA!/b/dD8BAAAAAAAA&bo=PgsKAQAAAAADABs!&rf=viewer_4)
+![效果图](http://a2.qpic.cn/psb?/V118JuTr3rHMrA/8TOJoqrQHPayQEzb..bRMvmOJ891LmNywYZMRhVBPpA!/b/dD8BAAAAAAAA&bo=PgsKAQAAAAADABs!&rf=viewer_4)
